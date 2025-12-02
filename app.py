@@ -6,7 +6,7 @@ import numpy as np
 import pandas as pd
 
 st.title("Web App")
-st.write("**これがstreamlitアプリ**")
+st.write("**これはテストだー！**")
 
 answer = st.button('Say hello')
 
